@@ -12,7 +12,5 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 namePrefix: prod-
 images:
-- name: cepgstapacr.azurecr.io/cloud-sample
-  newTag: "202408120727"
 - name: cepgstapacr.azurecr.io/sampleapp1
   newTag: "202409191631"
