@@ -18,6 +18,6 @@ public class UserService {
     @Transactional(readOnly = true)
     public String getUser() {
 
-        return "82023143 return by UserService";
+        return "82023143";
     }
 }
