@@ -13,4 +13,4 @@ management:
         include: "*"
         
 pvc:
-  path: /mnt/cloud-sample
+  path: /mnt/sampleapp1
