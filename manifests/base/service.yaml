@@ -4,6 +4,6 @@ metadata:
     name: sampleapp1
 spec:
     ports:
-    - port: 8080 
+    - port: 8081
     selector:
         app: sampleapp1
