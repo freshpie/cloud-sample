@@ -4,7 +4,7 @@ spring:
       on-profile: prod
 
 server:
-  port: 8081
+  port: 8080
 
 management:
   endpoints:
