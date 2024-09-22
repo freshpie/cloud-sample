@@ -16,4 +16,4 @@ spec:
         - name: sampleapp1
           image: cepgstapacr.azurecr.io/sampleapp1
           ports:
-          - containerPort: 8081
+          - containerPort: 8080
